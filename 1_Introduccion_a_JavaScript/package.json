@@ -1,0 +1,16 @@
+{
+  "name": "1_introduccion_a_javascript",
+  "version": "1.0.0",
+  "description": "Ejercicio del primer tema de JavaScript del curso JavaScript Básico",
+  "main": "index.js",
+  "scripts": {
+    "ejercicio1": "node ejercicio1.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "primer ejercicio",
+    "JavaScript"
+  ],
+  "author": "Noel Pérez Villanueva",
+  "license": "ISC"
+}
